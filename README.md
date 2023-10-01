@@ -1,7 +1,3 @@
-# contando-Letras
-Contando letras
-https://github.com/hugolaurentino/contando-Letras.git
-
 <h1 align="center">
   <img alt="Logo" title="#Logo" src="./assets/logo-hugo.png" />
 </h1>
@@ -16,11 +12,11 @@ https://github.com/hugolaurentino/contando-Letras.git
 - [x] GIF‘s
 
 ---
-<h1 align='center'>Extrato de Compra Online</h1>
+<h1 align='center'>Contando Letras</h1>
 
 <p align='center'>Esse é um exemplo de lógica em javascript</p>
 <p align='center'>
-
+Usando o conceito do forof uma das formas de repetição com if e ou (||)  
 </p>
 
 <p align='center'>
@@ -43,9 +39,11 @@ const letras = ["A", "a", "B", "C", "L", "z"];
   <p align= 'justify'>
   
 Declare uma variável que contem um array contendo algumas letras.
-Com mensagens de resposta imprimida como:
+A letra a ser contada neste caso sera a 'E' e 'e'
+Devendo retornar uma mensagens de resposta imprimida como:
 
 **Nenhuma letra "E" ou "e" foi encontrada.**
+
 **Foram encontradas 2 letras "E" ou "e".**
 </p>
 
