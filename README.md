@@ -27,10 +27,12 @@ Usando o conceito do forof uma das formas de repetição com if e ou (||)
 </p>
 
 ---
-<!-- <h1 align='center'>
+<h1 align='center'>
  <img alt='Readme' title='Readme' src='./assets/execucao.gif' />
-</h1> -->
+</h1>
+
 const letras = ["A", "a", "B", "C", "L", "z"];
+const letras1 = ["A", "e", "B", "C", "E", "z", 'e'];
 
 ---
 
